@@ -42,3 +42,4 @@ It produces multiple charts including:
   Shows school performance based upon District vs. Charter schools
 
 Code written by Alana Castellano
+Comments marked "Use the code below" include code provided by instructor, Ariel Gamino

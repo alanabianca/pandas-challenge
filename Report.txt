@@ -1,0 +1,10 @@
+This code analyzes the two csv files and is able to use all the data provided to create some very interesting figures.  
+
+While the district summary is a great snapshot of the over district’s performance and their statistics,  the School Summary is the table that really starts diving into the individual performances of the schools and allows for comparisons and conclusions to be drawn.  
+
+We see that none of the largest schools, with populations over 3000 students, are in the highest performing schools list.  All of the schools on the bottom performing schools list are over 2900 students.  Finding a direct correlations between budget, or budget per student, is harder.  Strangely, it seems like the higher the per student budget, the less well the students are performing.  
+
+When looking at the highest performing schools, we see very little difference between average math score and average reading score.  However, when analyzing the bottom performing schools, math scores are significantly lower than reading school, for all 5 bottom performing schools.  We see very little difference between grades, which means that subject has more of an impact on performance than grade does, and schools would be better off addressing problems teaching math, rather than looking at different grade level teams or performance.  
+
+Most interesting, I think, is the chart that breaks down the spending ranges per student.  That’s where we see the clear relation between budget per student and average scores.  Across the board, the more spent on a student, the worse their performance is.  You can also see that students perform better in both reading and math in smaller schools, and in charter schools.
+
