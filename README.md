@@ -2,6 +2,7 @@
 This code is designed to read in two different csv files detailing school data as well as individual student data. 
 
 It produces multiple charts including:
+
 ** District Summary **
     - Total number of unique schools
     - Total students
